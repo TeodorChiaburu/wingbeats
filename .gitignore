@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+
+.status/* 
+
+*.pkl
+*.joblib
+*.png
+*.pdf
+
+__pycache__
+
+
+
+figures/
+html/
+innvestigate
